@@ -143,7 +143,7 @@ Product-wise sales tracking
 
 **📸 **Dashboard Preview****
 
-<img width="1375" height="563" alt="image" src="https://github.com/user-attachments/assets/fc9b841c-d256-4595-b9de-d5ef7f897567" />
+<img width="1536" height="1024" alt="Sales executive  Excel Dashboard" src="https://github.com/user-attachments/assets/fabaabb8-10f0-4ca3-9a6b-6c5ddca2ab51" />
 
 
 **⭐ **Skills Demonstrated****
